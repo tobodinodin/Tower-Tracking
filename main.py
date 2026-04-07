@@ -15,8 +15,8 @@ logging.basicConfig(level=logging.INFO, format='%(asctime)s | %(levelname)s | %(
 logger = logging.getLogger('TowerBot')
 
 # Config - Replace these with your actual keys
-DISC_TOKEN = 'YOUR_BOT_TOKEN_HERE'
-TOWERSTATS_KEY = 'YOUR_API_KEY_HERE'
+DISC_TOKEN = 'Token'
+TOWERSTATS_KEY = 'API'
 DISC_ID = 1282662864586543157 # Use your actual discord ID
 DB_FILE = "leaderboard.json"
 MAINTENANCE_MODE = False
