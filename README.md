@@ -1,6 +1,9 @@
 # Tower-Tracking
 Tower Tracking, is a open-source badge tracking system for Roblox.
 
+# Installation
+You have to "pip install" everything thats listed in requirements.txt for it to run locally on your computer.
+
 # History
 Tower Tracking was originally developed for the Roblox obbying game "The Soul Crushing Realm". Before going open-source for any fangame owner to set up their own bot.
 
