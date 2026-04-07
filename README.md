@@ -11,3 +11,6 @@ that you can only use if you replace my ID with your ID.
 
 # How does this work?
 Firstly, it gets the ID of the Roblox user, and sends it to the TowerStats API. If the TowerStats API returns empty, then all badges of the player are checked for completions. If the players inventory is privated, then you will get an error message.
+
+# DISCLAIMER
+This is currently ONLY for soul crushing difficulties (8-14)
